@@ -1,5 +1,5 @@
 /*
-    ----------------------   SPIFFS_ini ver. 2.0  ----------------------
+    ----------------------   ESP8266INI ver. 2.0  ----------------------
       (c) 2020 SpeedBit, reg. Czestochowa, Poland
     --------------------------------------------------------------------
     This program is free software: you can redistribute it and/or modify
@@ -15,7 +15,7 @@
 */
 
 
-#include <SPIFFS_ini.h>
+#include <ESP8266INI.h>
 #include "LittleFS.h"
 #include "stdlib.h"
 

@@ -1,5 +1,5 @@
 /*
-    ----------------------   SPIFFS_ini ver. 2.0  ----------------------
+    ----------------------   ESP8266INI ver. 2.0  ----------------------
       (c) 2020 SpeedBit, reg. Czestochowa, Poland
     --------------------------------------------------------------------
     This program is free software: you can redistribute it and/or modify
@@ -15,8 +15,8 @@
 */
 
 
-#ifndef _SPIFFS_ini_
-#define _SPIFFS_ini_
+#ifndef _ESP8266INI_
+#define _ESP8266INI_
 
 #include "Arduino.h"
 #include <string.h>
